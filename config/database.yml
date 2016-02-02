@@ -1,0 +1,19 @@
+default: &default
+  adapter: postgresql
+  username: postgres
+  password: root
+  host: 127.0.0.1
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: nomster_development
+
+test:
+  <<: *default
+  database: nomster_test
+
+production:
+  <<: *default
+  database: nomster_production
