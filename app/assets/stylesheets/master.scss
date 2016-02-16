@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+h1,h2,h3,h4,h5,h6{
+	margin: 0px;
+	padding: 0px;
+}
+html{
+  padding-bottom: 20px;
+}
+body{
+	background: url(/assets/dark_embroidery.png);
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+.booyah-box {
+  -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+  box-shadow: 1px 1px 2px 0 #d0d0d0;
+  background: #eee;
+  border: 1px solid #ddd;
+  border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 20px;
+}
+.navbar.navbar-inverse{
+/*background: url(/assets/cream_pixels.png);*/
+/*background-color:black;*/
+  border-radius: 0;
+  box-shadow: 0px 1px 3px #ccc;
+}
+.navbar-header .navbar-brand{
+	color: #E3E85A;
+	text-align: center;
+	width:200px;
+/*font-family: "Helvetica Neue", Helvetica, sans-serif;*/
+	font-family: 'Ubuntu', sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.5px;
+}
+
+.pagination{
+  font-family: 'Ubuntu', sans-serif;
+  bottom: 0;
+  margin: 10px 100px;
+  padding-right: 0;
+  position: fixed;
+  right: 0;
+
+}
