@@ -3,6 +3,9 @@ h1,h2,h3,h4,h5,h6{
 	margin: 0px;
 	padding: 0px;
 }
+html{
+  padding-bottom: 20px;
+}
 body{
 	background: url(/assets/dark_embroidery.png);
   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
@@ -32,4 +35,15 @@ body{
 	font-family: 'Ubuntu', sans-serif;
   font-weight: 800;
   letter-spacing: 0.5px;
+}
+
+.pagination{
+  font-family: 'Ubuntu', sans-serif;
+  bottom: 0;
+  margin: 10px 110px;
+  padding-right: 0;
+  position: fixed;
+  right: 0;
+  color: white;
+
 }
