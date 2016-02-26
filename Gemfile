@@ -44,3 +44,5 @@ gem 'sprockets','2.11.0'
 gem 'will_paginate', '~> 3.1'
 gem 'simple_form'
 gem 'devise'
+
+gem 'coffee-script-source', '1.8.0'
