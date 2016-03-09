@@ -26,14 +26,14 @@ before_action :authenticate_user!, only: [:new, :create, :edit, :update, :destro
 	def edit
 		@place = Place.find(params[:id])	
 
-		if @place.user != current_user
+		if @place.user.present? && @place.user != current_user
 			return render text: 'Not Allowed', status: :forbidden
 			end
 	end
 
 	def update
 		@place = Place.find(params[:id])
-		if @place.user != current_user
+		if @place.user.present? && @place.user != current_user
 			return render text: 'Not Allowed', status: :forbidden
 		end
 		@place.update_attributes(place_params)
@@ -41,8 +41,8 @@ before_action :authenticate_user!, only: [:new, :create, :edit, :update, :destro
 			redirect_to root_path
 		else
 			render :edit, status: :unprocessable_entity
+			redirect_to root_path	
 		end
-		redirect_to root_path	
 	end
 
 	def destroy
