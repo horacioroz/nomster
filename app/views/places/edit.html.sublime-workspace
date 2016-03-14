@@ -1,0 +1,926 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"G",
+				"gem"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"pla",
+				"place"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"con",
+				"concurrent_user"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"pl",
+				"place"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"DI",
+				"div"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"not",
+				"notice"
+			],
+			[
+				"i",
+				"if	if … end"
+			],
+			[
+				"navbar",
+				"navbar-brand"
+			],
+			[
+				"P",
+				"Place"
+			],
+			[
+				"input_",
+				"input_class"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"pag",
+				"paginate"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"po",
+				"pos-a	position: absolute;"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"lo",
+				"localhost"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"arra_s",
+				"array_shift"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"Pablo",
+				"PDF_fill_imageblock"
+			],
+			[
+				"php",
+				"phpcredits"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"fla",
+				"flash	flash[…]"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"pre",
+				"Precompile"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"rem",
+				"reminder_when_divided_by_3"
+			],
+			[
+				"re",
+				"reminder_when_divided_by_5"
+			],
+			[
+				"foo",
+				"foobar"
+			],
+			[
+				"to",
+				"to_i"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"wh",
+				"when	when …"
+			],
+			[
+				"nu",
+				"numbers_without_duplicates"
+			],
+			[
+				"suma",
+				"suma2"
+			],
+			[
+				"add",
+				"adding"
+			],
+			[
+				"fi",
+				"first_item"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"is",
+				"is_even_and_divisible_by_five"
+			],
+			[
+				"dow",
+				"downcase"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"convert",
+				"to_convert"
+			],
+			[
+				"to_",
+				"to_convert"
+			],
+			[
+				"sele",
+				"selection"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"selec",
+				"select"
+			],
+			[
+				"select",
+				"selection"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"get_",
+				"get_bloginfo"
+			],
+			[
+				"logo",
+				"logoText"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"SER",
+				"_SERVER"
+			],
+			[
+				"get_cu",
+				"get_current_page"
+			],
+			[
+				"es",
+				"es_text"
+			],
+			[
+				"s",
+				"split_text"
+			],
+			[
+				"trans",
+				"translated_text"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"venu",
+				"venue_name"
+			],
+			[
+				"venue",
+				"venue_details"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"ab",
+				"absolute_url"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ur",
+				"urli"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"e",
+				"eas-	each_slice(..) { |group| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Build With: JavaC"
+			],
+			[
+				"f",
+				"Format Code"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"fo",
+				"Format Code"
+			]
+		],
+		"width": 664.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"Ejemplo",
+			"java Ejemplo.java",
+			"java Ejemplo.class",
+			"java Ejemplo",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Sites/nomster/app/controllers/application_controller.rb",
+		"/C/Users/Horacio Rozanski/Documents/GitHub/Curso/Curso Pablo Dudas.txt",
+		"/C/Sites/darmis/app/assets/javascripts/instituciones.js.coffee",
+		"/C/Sites/darmis/config/environments/production.rb",
+		"/C/Sites/darmis/config/routes.rb",
+		"/C/Sites/darmis/app/views/layouts/application.html.erb",
+		"/C/Sites/darmis/app/assets/javascripts/application.js",
+		"/C/Sites/darmis/app/assets/stylesheets/application.css",
+		"/C/Sites/darmis/app/controllers/instituciones_controller.rb",
+		"/C/Sites/darmis/app/views/instituciones/index.html.erb",
+		"/C/Sites/darmis/darmis.txt",
+		"/C/Sites/darmis/config/database.yml",
+		"/C/Sites/nomster/app/assets/javascripts/application.js",
+		"/C/Sites/nomster/db/migrate/20160308111620_alter_places_add_lat_and_lng.rb",
+		"/C/Sites/nomster/app/views/places/show.html.erb",
+		"/C/Sites/nomster/app/views/places/edit.html.erb",
+		"/C/Sites/nomster/app/controllers/places_controller.rb",
+		"/C/Sites/nomster/app/models/place.rb",
+		"/C/Sites/nomster/app/views/places/index.html.erb",
+		"/C/Sites/nomster/app/assets/stylesheets/master.scss",
+		"/C/Sites/nomster/db/migrate/20160225232420_alter_places_add_user_id_column.rb",
+		"/C/Sites/nomster/app/models/user.rb",
+		"/C/Sites/nomster/Gemfile",
+		"/C/Sites/nomster/app/views/devise/passwords/new.html.erb",
+		"/C/Sites/nomster/app/views/devise/registrations/new.html.erb",
+		"/C/Sites/nomster/app/views/layouts/application.html.erb",
+		"/C/Sites/nomster/app/views/devise/sessions/new.html.erb",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Sites/nomster/db/migrate/20160218150507_devise_create_users.rb",
+		"/C/Sites/nomster/config/database.yml",
+		"/C/Sites/nomster/lib/templates/erb/scaffold/_form.html.erb",
+		"/C/Sites/nomster/config/routes.rb",
+		"/C/Sites/nomster/config/environments/production.rb",
+		"/C/Sites/nomster/app/helpers/places_helper.rb",
+		"/C/Sites/nomster/config/environments/development.rb",
+		"/C/Sites/nomster/app/assets/stylesheets/places.scss",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Rails).sublime-settings",
+		"/C/Sites/nomster/app/views/places/new.html.erb",
+		"/C/Sites/nomster/config/initializers/simple_form.rb",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sites/nomster/app/assets/stylesheets/application.scss",
+		"/C/Sites/nomster/app/assets/stylesheets/master.css.scss",
+		"/C/Sites/nomster/db/migrate/20160204230411_create_places.rb",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Sites/nomster/file.css",
+		"/C/Program Files/PostgreSQL/9.5/data/pg_hba.conf",
+		"/C/Sites/nomster/config/environment.rb",
+		"/C/AppServ/www/Aprendiendo/btb_php/Basic.html",
+		"/C/AppServ/www/Aprendiendo/btb_php/array_functions.php",
+		"/C/AppServ/www/Aprendiendo/btb_php/seats.php",
+		"/C/AppServ/www/Aprendiendo/btb_php/variable_variables.php",
+		"/C/AppServ/www/Aprendiendo/btb_php/my_phpinfo.php",
+		"/C/Sites/films/app/controllers/quotes_controller.rb",
+		"/C/Sites/films/config/application.rb",
+		"/C/Sites/films/Gemfile",
+		"/C/Sites/films/app/assets/stylesheets/application.scss",
+		"/C/Users/Horacio Rozanski/Downloads/webfontkit-20160113-091231.zip",
+		"/C/Sites/films/app/assets/javascripts/application.js",
+		"/C/Sites/films/config/database.yml",
+		"/C/Sites/films/'Mark",
+		"/C/Sites/films/app/controllers/application_controller.rb",
+		"/C/Sites/films/log/development.log",
+		"/C/Sites/films/app/assets/javascripts/quotes.js.coffee",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/eliminating_duplicates.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/fruit_preferences.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/even.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/dogage.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/lesson23if.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/convertions.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/math.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/pounds_to_kilos.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/ordinals.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/paginaHTML.html",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/input.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/hello.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/banner.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/inches_to_centimeters.rb",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/inches_to_centimeters",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/CorrerJava.sublime-build",
+		"/C/AppServ/www/Ekman/wp-config.php",
+		"/C/AppServ/www/Aprendiendo/CursoPablo/20140325_125246.jpg",
+		"/C/AppServ/www/Aprendiendo/Ejemplo.java",
+		"/C/AppServ/www/Ekman/provisional/wp-config.php",
+		"/C/Users/Horacio Rozanski/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Horacio Rozanski/AppData/Local/Temp/fz3temp-1/shell.php",
+		"/C/AppServ/www/phpMyAdmin/index.php",
+		"/C/AppServ/www/Aprendiendo/Heididecode.js",
+		"/C/Program Files/Sublime Text 3/HelloWorld.java",
+		"/C/Users/Horacio Rozanski/javaexec.bat",
+		"/C/Program Files/Sublime Text 3/Hola.java",
+		"/C/Program Files/Sublime Text 3/[path",
+		"/C/AppServ/www/casaronson/category_delete.php",
+		"/C/AppServ/www/casaronson/footer.php",
+		"/C/AppServ/www/casaronson/newsletter-sidebar-form.php",
+		"/C/AppServ/www/casaronson/user_logout.php",
+		"/C/AppServ/www/casaronson/head.php",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/Horacio Rozanski/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/js/functions.js",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/style.css",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/events.css",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/js/application.js",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/functions.php",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/index.php",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/head.php",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/header.php",
+		"/C/AppServ/www/RoelSite/Enrique Roel.txt",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/functions2.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/public/template-tags/general.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/views/list/single-event.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/lib/tribe-template-factory.class.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/lib/the-events-calendar.class.php",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/events/list/single-event.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/resources/tribe-events-theme.min.css",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/resources/events-admin.js",
+		"/C/AppServ/www/RoelSite/wp-admin/admin-ajax.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/resources/tribe-events-ajax-list.min.js",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/resources/tribe-events-ajax-calendar.min.js",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/qtranslate/qtranslate.php",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/resources/tribe-events-full-mobile.min.css",
+		"/C/AppServ/www/RoelSite/wp-content/themes/Screen1.4/press.css",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/resources/tribe-events-full.min.css",
+		"/C/AppServ/www/RoelSite/wp-content/plugins/the-events-calendar/admin-views/tribe-options-display.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"C:\\Sites\\nomster\\app\\views",
+			"C:\\Sites\\nomster\\app\\views\\devise",
+			"C:\\AppServ\\www\\RoelSite",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\themes\\Screen1.4",
+			"C:\\AppServ\\www\\RoelSite",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\themes\\Screen1.4\\tribe-events",
+			"C:\\AppServ\\www\\RoelSite",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\themes\\Screen1.4",
+			"C:\\AppServ\\www\\RoelSite",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\themes\\Screen1.4",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\plugins\\the-events-calendar",
+			"C:\\AppServ\\www\\RoelSite",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\plugins\\the-events-calendar",
+			"C:\\AppServ\\www\\RoelSite",
+			"C:\\AppServ\\www\\RoelSite\\wp-content\\plugins\\the-events-calendar",
+			"C:\\AppServ\\www\\RoelSite"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<script async defer\n    src=\"https://maps.googleapis.com/maps/api/js?key= Aj4lpXC2eneBsvxfOTg-D_OmuOGE3wQ9aK_hQj-SE9mInz6ZJDXqWcrK85rGOjb2&callback=initMap\">\n    </script>",
+			"\n  ",
+			"fargot your password",
+			"json",
+			"<",
+			"scrip",
+			"out",
+			":delete",
+			"destroy",
+			"sign out",
+			"sign_out",
+			"        ",
+			" =>",
+			"master.css.scss",
+			"\n	",
+			"brand",
+			"=\"#\"></",
+			"=\"\"></",
+			"bootstrap",
+			"sprockets",
+			"/>\n",
+			"root",
+			"loca",
+			"\"\"",
+			"rrails_12factor",
+			"12factor",
+			"default",
+			"films_test",
+			"%>-->\n",
+			"  %>",
+			"\n//=",
+			");*/\n",
+			"paths",
+			"third",
+			"puts \"6 human years is #{dogage(6)} dog years\"	\n",
+			"human",
+			"question",
+			"end",
+			".\"",
+			"logo",
+			"favicon",
+			"#logo",
+			"logo",
+			"conductor",
+			"compositor y director",
+			"print_r",
+			" //",
+			"filter",
+			"trnslt",
+			"var page_language = (lan[4]);",
+			"tribe_get_past_link()",
+			"eventos anteriores",
+			"tribe_events_after_template",
+			"tribe_paged",
+			"\"tribe_paged\":\"0\"",
+			"TribeList",
+			"#content",
+			"#content, #blog-content",
+			"#content, #blog-content.video",
+			"events.css",
+			"blog.css",
+			"$venue_details",
+			"tribe-events-venue-details",
+			"add_filter",
+			"tribe_get_listview_link()",
+			"tribe_get_gridview_link()",
+			"vcard",
+			"tribe-events-venue-details",
+			"tribe-event-venue-details",
+			"tribe_event_venue_details",
+			"get_gridview_link",
+			"tribe_get_gridview_link()",
+			"tribe_get_listview_link()",
+			"<?php echo tribe_get_event_link() ?>",
+			"get_event_link",
+			"get_gridview_link",
+			"tribe_get_gridview_link",
+			"tribe_get_gridview_link()",
+			"tribe_get_gridview_link(), tribe_get_listview_link() and tribe_get_event_link()",
+			"calendar-controller.php",
+			"load_js_translations function",
+			"admin-ajax.php",
+			" admin-ajax.php",
+			"EventVenueID",
+			"org",
+			"fn",
+			"author",
+			"author fn org",
+			"venue",
+			"author",
+			"author fn org",
+			".tribe-events-event-meta .tribe-events-meta-group, .tribe-events-event-meta .column {",
+			"composer",
+			"logo",
+			"html",
+			"*",
+			"tribe-events-gmap",
+			"tribe-events-venue-map",
+			".tribe-events-event-meta,.tribe-events-meta-group,.tribe-events-event-meta .column",
+			".tribe-events-event-meta .tribe-events-meta-group, .tribe-events-event-meta .column",
+			"}",
+			"tribe-events-meta-group",
+			"tribe-events-meta-group-details",
+			"tribe-events-meta-gropu-details",
+			"tribe-events-single-section",
+			"tribe-events-single-section tribe-events-event-meta tribe-clearfix",
+			"}",
+			"meta-group",
+			"background",
+			"image",
+			"holder",
+			"menu",
+			"$menuwalker",
+			"wp_nav_menu()",
+			"divider",
+			"margin",
+			"body",
+			"print_r",
+			"if",
+			"wp_tiny_mce",
+			"bghol",
+			"blog",
+			"if ( is_wp_error( $category )",
+			"function get_category_link( $cat",
+			"function get_category_link( $category_id ",
+			"get_the_category",
+			"get_category_parents()",
+			"/head"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php echo qtrans_convertURL(tribe_get_gridview_link()); ?>",
+			"<?php echo qtrans_convertURL(tribe_get_listview_link()); ?>",
+			"<?php echo qtrans_convertURL(tribe_get_event_link()); ?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "edit.html.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"data",
+				"config\\database.yml"
+			],
+			[
+				"databse",
+				"config\\database.yml"
+			],
+			[
+				"packagecontro",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "ekman",
+		"selected_items":
+		[
+			[
+				"ekman",
+				"C:\\Program Files\\Sublime Text 3\\Ekman.sublime-project"
+			],
+			[
+				"",
+				"C:\\Program Files\\Sublime Text 3\\Ekman.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
