@@ -6,7 +6,7 @@ class CommentsController < ApplicationController
 		redirect_to place_path(@place)
 	end
 
-	prinvate
+	private
 
 	def comment_params
 		params.require(:comment).permit(:message, :rating)
