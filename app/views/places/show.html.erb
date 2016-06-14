@@ -103,7 +103,7 @@
 		        <h4 class="modal-title" id="myModalLabel">Add a photo here</h4>
 		      </div>
 		      <div class="modal-body">
-						<%= simple_form_for @photo, url: place_photos_path(@place) do |f| %>
+						<%= simple_form_for (@photo, html: {multipart: true}), url: place_photos_path(@place) do |f| %>
 							<%= f.input :caption %>
 							<%= f.input :picture %>
 		      </div>
