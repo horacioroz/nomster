@@ -1,7 +1,7 @@
 default: &default
   adapter: postgresql
-  username: postgres
-  password: root
+  username: Horacioroz
+  password:
   host: 127.0.0.1
   encoding: unicode
   pool: 5
